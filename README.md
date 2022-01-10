@@ -1,5 +1,8 @@
 # cdn
 
+cdn引用格式  
+https://cdn.jsdelivr.net/gh/Nov8nana/cdn
+
 ## img
 
 一些常用图片的cdn链接
