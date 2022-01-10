@@ -13,6 +13,8 @@ v2ex 网站Ui优化 https://cdn.jsdelivr.net/gh/Nov8nana/cdn/css/v2ex.css
 
 图片放大插件 https://cdn.jsdelivr.net/gh/Nov8nana/cdn/css/zoom.css
 
+twikoo ui重写 https://cdn.jsdelivr.net/gh/Nov8nana/cdn/css/twikoo.css
+
 ## js
 
 juery3.6.0.js https://cdn.jsdelivr.net/gh/Nov8nana/cdn/js/jquery3.6.0.js
