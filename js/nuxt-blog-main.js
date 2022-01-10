@@ -9,13 +9,13 @@ $(function () {
 });
 
 
-$(window).on("scroll", function () {
-if ($(window).scrollTop() >=1) {
-  $('.header').addClass('topheader')
-} else {
-  $('.header').removeClass('topheader')
-}
-});
+// $(window).on("scroll", function () {
+// if ($(window).scrollTop() >=1) {
+//   $('.header').addClass('topheader')
+// } else {
+//   $('.header').removeClass('topheader')
+// }
+// });
 
 // 头部特效
 VANTA.HALO({
@@ -23,6 +23,6 @@ VANTA.HALO({
   mouseControls: true,
   touchControls: true,
   gyroControls: false,
-  minHeight: 200.0,
+  minHeight: 110.0,
   minWidth: 200.0,
 });
