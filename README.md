@@ -1,5 +1,9 @@
 # cdn
 
+## img
+
+一些常用图片的cdn链接
+
 ## css
 
 v2ex 网站Ui优化 https://cdn.jsdelivr.net/gh/Nov8nana/cdn/css/v2ex.css
