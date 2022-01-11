@@ -16,13 +16,3 @@ if ($(window).scrollTop() >=1) {
   $('.header').removeClass('topheader')
 }
 });
-
-// 头部特效
-// VANTA.HALO({
-//   el: "#your-element-selector",
-//   mouseControls: true,
-//   touchControls: true,
-//   gyroControls: false,
-//   minHeight: 110.0,
-//   minWidth: 200.0,
-// });
