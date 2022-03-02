@@ -26,3 +26,7 @@ nuxt个人博客js代码 https://cdn.jsdelivr.net/gh/imhan0cn/cdn/js/nuxt-blog-m
 wow特效 https://cdn.jsdelivr.net/gh/imhan0cn/cdn/js/wow.js
 
 目录插件 https://cdn.jsdelivr.net/gh/imhan0cn/cdn/js/toc.js
+
+## font字体文件
+
+https://cdn.jsdelivr.net/gh/imhan0cn/cdn/font/NotoSansSC-Regular.otf
