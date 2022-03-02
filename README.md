@@ -29,4 +29,6 @@ wow特效 https://cdn.jsdelivr.net/gh/imhan0cn/cdn/js/wow.js
 
 ## font字体文件
 
-https://cdn.jsdelivr.net/gh/imhan0cn/cdn/font/NotoSansSC-Regular.otf
+谷歌方方正正的字体: https://cdn.jsdelivr.net/gh/imhan0cn/cdn/font/NotoSansSC-Regular.otf
+
+blog现在使用的字体: https://cdn.jsdelivr.net/gh/imhan0cn/cdn/font/HYWenHei-55W.woff2
