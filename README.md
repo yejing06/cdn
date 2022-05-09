@@ -35,4 +35,4 @@ wow特效 https://cdn.jsdelivr.net/gh/anghunk/cdn/js/wow.js
 
 谷歌方方正正的字体: https://cdn.jsdelivr.net/gh/anghunk/cdn/font/NotoSansSC-Regular.otf
 
-blog现在使用的字体: https://cdn.jsdelivr.net/gh/anghunk/cdn/font/HYWenHei-55W.woff2
+鸿蒙字体: https://cdn.jsdelivr.net/gh/anghunk/cdn/font/HarmonyOS_Sans_SC_Medium.woff2
