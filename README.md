@@ -36,3 +36,5 @@ wow特效 https://cdn.jsdelivr.net/gh/anghunk/cdn/js/wow.js
 谷歌方方正正的字体: https://cdn.jsdelivr.net/gh/anghunk/cdn/font/NotoSansSC-Regular.otf
 
 鸿蒙字体: https://cdn.jsdelivr.net/gh/anghunk/cdn/font/HarmonyOS_Sans_SC_Medium.woff2
+
+OPPOSans 字体: https://cdn.jsdelivr.net/gh/anghunk/cdn/font/OPPOSans.subset.ttf
