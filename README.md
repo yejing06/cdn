@@ -21,11 +21,7 @@ https://cdn.jsdelivr.net/gh/98fuel/cdn/json/artalk_owo.json
 
 ## css
 
-v2ex 网站Ui优化 https://cdn.jsdelivr.net/gh/98fuel/cdn/css/v2ex.css
-
 图片放大插件 https://cdn.jsdelivr.net/gh/98fuel/cdn/css/zoom.css
-
-twikoo ui重写 https://cdn.jsdelivr.net/gh/98fuel/cdn/css/twikoo.css
 
 
 ## js
@@ -33,8 +29,6 @@ twikoo ui重写 https://cdn.jsdelivr.net/gh/98fuel/cdn/css/twikoo.css
 juery3.6.0.js https://cdn.jsdelivr.net/gh/98fuel/cdn/js/jquery3.6.0.js
 
 图片放大插件 https://cdn.jsdelivr.net/gh/98fuel/cdn/js/zoom.js
-
-nuxt个人博客js代码 https://cdn.jsdelivr.net/gh/98fuel/cdn/js/nuxt-blog-main.js
 
 wow特效 https://cdn.jsdelivr.net/gh/98fuel/cdn/js/wow.js
 
