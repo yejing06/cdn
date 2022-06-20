@@ -1,6 +1,8 @@
 /* 
  * blogMenu plugin 1.0   2017-09-01 by cary
- * 说明：自动根据标签（h3,h4）生成博客目录
+ * 说明：自动根据标签（h2,h3）生成博客目录
+ * 在网站需要显示目录的地方放置这一行代码
+ * <div class="autoMenu" id="autoMenu" data-autoMenu></div>
  */
 (function ($) {
 
