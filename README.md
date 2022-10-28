@@ -17,7 +17,7 @@ OPPOSans 字体: https://cdn.staticaly.com/gh/zburu/cdn@main/font/OPPOSans.subse
 
 font-cn-subfont.woff2: https://cdn.staticaly.com/gh/zburu/cdn@main/font/font-cn-subfont.woff2
 
-苍耳渔阳体:  font-cn-subfont.woff2: https://cdn.staticaly.com/gh/zburu/cdn@main/font/CangErW03.ttf
+苍耳渔阳体: https://cdn.staticaly.com/gh/zburu/cdn@main/font/CangErW03.ttf
 
 
 ## 表情json
